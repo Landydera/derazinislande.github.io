@@ -6,6 +6,8 @@
 
 [Project 1 Top Streaming Artist](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://www.linkedin.com/in/islande-derazin/">View My LinkedIn Profile</a> 
+
 
 ---
 [Project 2 Music playlist ](/pdf/sample_presentation.pdf)
