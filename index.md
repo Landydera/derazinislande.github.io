@@ -4,18 +4,18 @@
 
 ### Category Name 1 
 
-[Project 1 Top Streaming Artist](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<a href="https://www.linkedin.com/in/islande-derazin/">View My LinkedIn Profile</a> 
+[Project 1 Top Streaming Artist]
+<a href="https://www.linkedin.com/in/islande-derazin/">[Project 1 Top Streaming Artist]</a> 
 
 
 ---
-[Project 2 Music playlist ](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Music playlist ]
+<a href="https://www.linkedin.com/in/islande-derazin/">[Project 2 Music playlist ]</a> 
+
 
 ---
-[Project 3 Movie Titles ](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Movie Titles ]
+<a href="https://www.linkedin.com/in/islande-derazin/">[Project 3 Movie Titles ]</a> 
 
 ---
 
