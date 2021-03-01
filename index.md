@@ -4,7 +4,7 @@
 
 ### Category 
 
-<a href="https://github.com/Landydera/Homework-1">[Project 1 Top Streaming Artist]</a> 
+<a href="https://github.com/Landydera/Labs_3610">[CISC 3610_Labs Section]</a> 
 
 
 ---
