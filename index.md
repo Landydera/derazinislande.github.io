@@ -4,8 +4,7 @@
 
 ### Category 
 
-<a href="https://github.com/Landydera/Labs_3610">[CISC 3610_Labs Section ]</a> 
-
+<a href="https://github.com/Landydera/Labs_3610">[CISC Labs ]</a> 
 
 ---
 <a href="https://github.com/Landydera/CISC-3130-HW2">[Project 2 Music playlist ]</a> 
