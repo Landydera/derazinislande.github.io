@@ -3,7 +3,7 @@
 
 ### Motivation
 
-In my online portforlio I enumerate my projects and I will be adding more going fowrard. 
+In my online portforlio I enumerate my projects and I will be adding more moving fowrard. 
 ___
 
 
